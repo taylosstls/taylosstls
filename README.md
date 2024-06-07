@@ -20,6 +20,7 @@
   <a href="https://graphql.org" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" style="max-width: 100%;"></a>
   <a href="http://prisma.io" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" style="max-width: 100%;"></a></p>
 
+<p align="left">💌 CONTACT AND SOCIAL:</p>
 <p align="left">
   <a href="mailto:luisgustavogto@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
