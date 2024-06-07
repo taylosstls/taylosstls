@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Gustavo Teixeira, software engineer with over 10 years of web expertise. Specialist in ReactJS, Liferay, WordPress, and AWS. Experienced in Agile and SCRUM methodologies, UI/UX, and analytics tools.
+  Gustavo Teixeira, software engineer with over 10 years of web expertise. Specialist in ReactJS, Liferay, WordPress, and AWS. Experienced in Agile and SCRUM methodologies, UI/UX and analytics tools.
 </p>
 
 <p dir="auto">⚐ Based in Sao Paulo, Brazil</p>
